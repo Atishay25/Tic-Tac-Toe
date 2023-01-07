@@ -1,4 +1,4 @@
-package Q2 ;
+package game ;
 
 public class Board {
     private int [][] board = new int[3][3];

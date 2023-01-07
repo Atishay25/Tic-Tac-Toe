@@ -1,4 +1,4 @@
-package Q2 ;
+package game ;
 
 import java.net.*;
 import java.util.Scanner;
